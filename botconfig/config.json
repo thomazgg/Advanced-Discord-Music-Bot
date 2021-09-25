@@ -1,6 +1,6 @@
 {
-  "token": "SEU TOKEN AQUI",
-  "prefix": "!",
+  "token": "Seu_Token",
+  "prefix": "Seu_Prefixo",
   "clientsettings": {
     "nodes": [
       {
