@@ -5,7 +5,7 @@
 
  **2.** Baixe este repositório e descompacte-o | ou git cloná-lo
 
- **3.** Instale todos os pacotes com **`npm install @ discordjs / opus @ ksoft / api ascii-table canvacord canvas cores common-tags discord.js enmap erela.js erela.js-deezer erela.js- facebook erela.js-spotify localizador de letras ms radio-browser `** | os pacotes importantes são **`npm install discord.js erela.js`**
+ **3.** Instale todos os pacotes com **`npm install @discordjs/opus @ksoft/api ascii-table canvacord canvas colors common-tags discord.js enmap erela.js erela.js-deezer erela.js-facebook erela.js-spotify lyrics-finder ms radio-browser`** | os pacotes importantes são **`npm install discord.js erela.js`**
 
  **4** Preencha os parâmetros, BEM em `botconfig / config.json`!
 
