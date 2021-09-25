@@ -1,41 +1,30 @@
-# Discord.js Lavalink Music Bot using erela.js
-# A Advance Discord Music Bot Like Hydra
+# Advanced Discord Music Bot
+## Instalação | Como usar o bot
 
-[Erela.js docs](https://solaris.codes/projects/erelajs) **Note this Discord Bot Repository is the Same as for the Public Bot [Lava Music](https://lava.milrato.eu) if u want to support me, then please [invite](https://lava.milrato.eu) him!**
+ **1.** Instale [node.js v12 +](https://nodejs.org/en/download/) ou superior
 
-## [**DISCORD SUPPORT SERVER INVITE**](https://support.milrato.eu)
+ **2.** Baixe este repositório e descompacte-o | ou git cloná-lo
 
-**IF YOU WANNA USE CUSTOM EMOJIS, AND SHARD THEN CHECK OUT THE CUSTOM-EMOJIS TAB(branch)!**
+ **3.** Instale todos os pacotes com **`npm install @ discordjs / opus @ ksoft / api ascii-table canvacord canvas cores common-tags discord.js enmap erela.js erela.js-deezer erela.js- facebook erela.js-spotify localizador de letras ms radio-browser `** | os pacotes importantes são **`npm install discord.js erela.js`**
 
-## Installation | How to use the Bot
+ **4** Preencha os parâmetros, BEM em `botconfig / config.json`!
 
- **1.** Install [node.js v12+](https://nodejs.org/en/download/) or higher
+ **5.** [Baixe Lavalink](https://cdn.discordapp.com/attachments/798196676405755905/827174915714711572/Lavalink.jar) e baixe Java 15 (Java 13 recomendado)
 
- **2.** Download this repo and unzip it    |    or git clone it
+**5.1** Execute o arquivo Lavalink com: **`java -jar Lavalink.jar`**
 
- **3.** Install all of the packages with **`npm install @discordjs/opus @ksoft/api ascii-table canvacord canvas colors common-tags discord.js enmap erela.js erela.js-deezer erela.js-facebook erela.js-spotify lyrics-finder ms radio-browser `**     |  the important packages are   **`npm install discord.js erela.js`**
+ **CERTIFIQUE-SE DE QUE EXISTE O ARQUIVO `application.yml`, CASO CONTRÁRIO NÃO FUNCIONARÁ!**
 
- **4** Fill in the parameters, RIGHT in `botconfig/config.json`!
+ **6.** inicie o bot com **`node index.js`**
 
- **5.** [Download Lavalink](https://cdn.discordapp.com/attachments/798196676405755905/827174915714711572/Lavalink.jar) and download Java 15 (Java 13 recommended)
+#### **NOTA:**
 
- **5.1** Run the Lavalink file with: **`java -jar Lavalink.jar`**
-
- **MAKE SURE THAT THERE IS THE `application.yml` FILE OTHERWISE IT WILL NOT WORK!
-
- **6.** start the bot with **`node index.js`**
-
-#### **NOTE:**
-
-*If you are having errors/problems with starting delete the package.json file and do, before you install the packages `npm init`*
+*Se você está tendo erros / problemas ao iniciar, exclua o arquivo package.json e faça, antes de instalar os pacotes `npm init`*
 
 
-# THIS IS HOW IT SHOULD LOOK LIKE!
+# É ASSIM QUE DEVE SER PARECIDO!
 
 ![](https://github.com/Tomato6966/discord-js-lavalink-Music-Bot-erela-js/blob/main/Folder_structure.png)
-
-# SHORT OVERVIEW TUTORIAL!
-[![](http://img.youtube.com/vi/_skTgDBMd44/0.jpg)](https://youtu.be/Fp4QXZbKZYM "")
 
 ## Windows start Command .bat file
 ```bat
@@ -54,56 +43,11 @@ ECHO ==========================
 start cmd /k node .
 exit /s'
 ```
-Windows `start.bat` file
-Which starts Lavalink and the Bot together via one click ;)
+Arquivo `start.bat` do Windows
+Que inicia Lavalink e o Bot juntos com um clique;)
 
-Have it in the Same folder as `index.js` and `Lavalink.jar`
+Coloque-o na mesma pasta que `index.js` e` Lavalink.jar`
 
-# SUPPORT ME AND MILRATO DEVELOPMENT
+## Entre no meu servidor do discord
 
-You can always Support me by inviting one of my **own Discord Bots**
-
-[![2021's best Music Bot | Lava Music](https://cdn.discordapp.com/attachments/748533465972080670/817088638780440579/test3.png)](https://lava.milrato.eu)
-[![Musicium Music Bot](https://cdn.discordapp.com/attachments/742446682381221938/770055673965707264/test1.png)](https://dc.musicium.eu)
-[![Milrato Multi Bot](https://cdn.discordapp.com/attachments/742446682381221938/770056826724679680/test1.png)](https://dc.milrato.eu)
-
-## Sponsors
-
-### BEST HOSTING | Bittmax.de
-BITTMAX Quality is their solution.
-Bittmax is our first and probably most important sponsor!
-
-**What they are offering:**
-> Quality LXC & KVM (Root) Server
-> Minecraft Hosting, as well as BungeeCord Network Hosting support
-> Cheap and fast Domains
-> WEBHOSTING
-> DISCORD, TEAMSPEAK, Setups / Music Bots
-> GAME SERVER, Rust, Gary's Mod, ..
-
-**Discord Server:**
-[https://discord.gg/GgjJZCyYKD](https://discord.gg/GgjJZCyYKD)
-
-**Website:**
-[https://bittmax.de/](https://bittmax.de/])
-
-GET **5%** OFF EVERYTHING FOR EVER!
-Code: **`x10`**
-
-### MC-Host24.de
-MC-Host24.de is selling the Best Digital Hosting Services ever!
-Like For games..
-
-**What they are offering:**
-> Quality LXC & KVM (Root) Server
-> WORLDS BEST Minecraft Hosting,
-> Cheap and fast Domains
-> WEBHOSTING
-> DISCORD, TEAMSPEAK, Setups / Music Bots
-> GAME SERVER, Rust, Gary's Mod, ..
-
-**Discord Server:**
-[https://discord.com/invite/4dGuGXK4A4](https://discord.com/invite/4dGuGXK4A4)
-
-**Website:**
-[mc-host24.de](https://mc-host24.de/user/affiliate/3121])
+[Thomaz's Cord ₊🌸](https://discord.gg/DJuK4KGa94)
