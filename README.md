@@ -17,10 +17,18 @@
 
  **6.** inicie o bot com **`node index.js`**
 
+### *Modificar - `config.json`*
+
+```javascript
+{
+    "token": "Seu_Token",
+    "prefix": "Seu_Prefixo"
+}        
+```
+
 #### **NOTA:**
 
 *Se você está tendo erros / problemas ao iniciar, exclua o arquivo package.json e faça, antes de instalar os pacotes `npm init`*
-
 
 # É ASSIM QUE DEVE SER PARECIDO!
 
